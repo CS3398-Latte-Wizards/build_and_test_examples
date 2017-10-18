@@ -10,4 +10,4 @@ before_install:
 
 script: 
   //- py.test -v --cov=maths
-    -helloworld.py
+    - python helloworld.py
