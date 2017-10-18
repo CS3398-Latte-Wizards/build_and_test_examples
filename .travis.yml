@@ -10,4 +10,4 @@ python:
 
 script: 
   # - py.test -v --cov=maths
-    - python helloworld.py
+    - helloworld.py
