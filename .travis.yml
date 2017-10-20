@@ -11,3 +11,5 @@ python:
 script: 
   # - py.test -v --cov=maths
     - python helloworld.py
+    - python helloJustin.py
+    - python helloDevante.py
